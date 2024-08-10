@@ -1,0 +1,14 @@
+apeye==1.4.1
+apeye-core==1.1.5
+certifi==2024.7.4
+charset-normalizer==3.3.2
+domdf-python-tools==3.9.0
+idna==3.7
+natsort==8.4.0
+packaging==24.1
+platformdirs==4.2.2
+pypi-json==0.4.0
+random2==1.0.2
+requests==2.32.3
+typing_extensions==4.12.2
+urllib3==2.2.2
